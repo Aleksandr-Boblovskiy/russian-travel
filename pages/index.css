@@ -1,2 +1,10 @@
+@import '../vendor/normalize.css';
+@import '../fonts/Inter\ Web/Inter.css';
 @import '../blocks/page/page.css';
 @import '../blocks/header/header.css';
+@import '../blocks/header/__lang-link/header__lang-link.css';
+@import '../blocks/header/__lang-link/_selected/header__lang-link_selected.css';
+@import '../blocks/lead/lead.css';
+@import '../blocks/lead/__title/lead__title.css';
+@import '../blocks/lead/__subtitle/lead__subtitle.css';
+
