@@ -1,0 +1,15 @@
+.cover__cont {
+  position: absolute;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  width: 1184px;
+  height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  text-decoration: none;
+  color: #ffffff;
+  z-index: 3;
+}
