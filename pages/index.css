@@ -1,10 +1,10 @@
 @import '../vendor/normalize.css';
 @import '../fonts/Inter\ Web/Inter.css';
 @import '../blocks/page/page.css';
-@import '../blocks/list/list.css';
 @import '../blocks/header/header.css';
 @import '../blocks/header/__lang-link/header__lang-link.css';
 @import '../blocks/header/__lang-link/_selected/header__lang-link_selected.css';
+@import '../blocks/header/__lang-cont/header__lang-cont.css';
 @import '../blocks/lead/lead.css';
 @import '../blocks/lead/__title/lead__title.css';
 @import '../blocks/lead/__subtitle/lead__subtitle.css';
@@ -30,7 +30,6 @@
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__title/cover__title.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
-@import url('../blocks/cover/__overlay/cover__overlay.css');
 @import url('../blocks/cover/__cont/cover__cont.css');
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__link/footer__link.css');
