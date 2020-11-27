@@ -1,6 +1,13 @@
 .place__paragraph {
   margin: 0;
   margin-bottom: 27px;
+  width: 100%;
   font-size: 18px;
-  line-height: 1.63;
+  line-height: 163%;
+}
+
+@media screen and (max-width: 950px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
 }

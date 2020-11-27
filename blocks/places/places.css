@@ -5,3 +5,18 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 1184px) {
+  .places {
+    max-width: 928px;
+    margin-top: 90px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .places {
+    max-width: 720px;
+    margin-top: 90px;
+  }
+}
+

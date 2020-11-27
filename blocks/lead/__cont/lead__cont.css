@@ -2,3 +2,9 @@
   position: relative;
   margin-top: 64px;
 }
+
+@media screen and (max-width: 1184px) {
+  .lead__cont {
+    margin-top: 57px;
+  }
+}
