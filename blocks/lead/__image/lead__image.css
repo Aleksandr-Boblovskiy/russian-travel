@@ -2,5 +2,21 @@
   width: 100%;
 }
 
+.lead__image {
+  position: relative;
+  margin-top: 64px;
+}
+
+@media screen and (max-width: 1184px) {
+  .lead__image {
+    margin-top: 57px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__image {
+    margin-top: 40px;
+  }
+}
 
 
