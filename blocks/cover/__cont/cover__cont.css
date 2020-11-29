@@ -1,7 +1,6 @@
 .cover__cont {
   display: flex;
   flex-direction: column;
-  justify-content: start;
   align-items: center;
   text-decoration: none;
   color: #ffffff;
