@@ -1,7 +1,7 @@
 .header__lang-link {
   margin: 0;
   font-size: 24px;
-  line-height: 117%;
+  line-height: 1.17;
   text-align: right;
   text-decoration: none;
   color: #ffffff;
@@ -11,9 +11,9 @@
   margin-left: 17px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 680px) {
   .header__lang-link {
     font-size: 18px;
-    line-height: 111%;
+    line-height: 1.11;
   }
 }
